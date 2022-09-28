@@ -1,0 +1,45 @@
+  .Main{
+    background-color: rgb(254, 255, 255);
+    margin: 80px;
+    margin-left: 500px !important;
+  }
+  button{
+    background-color: rgb(3, 80, 157);
+    border-radius: 15px;
+    height: 40px;
+    width: 120px;
+    margin-top: 10px;
+    color:white;
+  }
+  a{
+    margin-top: 30px;
+    color: rgb(3, 80, 157);
+    margin-left: -2px;
+  }
+  a:hover, button:hover{
+    cursor: pointer;
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+  }
+  p, h3{
+    text-align: center;
+  }
+  input{
+    height: 35px;
+    width: 500px;
+    margin-left: 7px;
+    border-radius: 10px;
+  }
+  img{
+    margin-left: 100px !important;
+    height: 200px !important;
+    width: 300px;
+    margin-top: -20px;
+  }
+  
+  
